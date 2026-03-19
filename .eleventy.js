@@ -20,7 +20,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
     widths: widths,
     formats: ["webp", "jpeg"],
     outputDir: "./dist/img/optimized",
-    urlPath: "/img/optimized",
+    urlPath: "/jsg-spielidee-garden/img/optimized",
   };
 
   // generate images, while this is async we don’t wait
@@ -714,5 +714,6 @@ module.exports = function(eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
+    pathPrefix: "/jsg-spielidee-garden/",
   };
 };
