@@ -1,48 +1,66 @@
 body {
-    /* JSG Hohe Warte Color Scheme */
+    /* JSG Hohe Warte – Dark theme with red/blue accents */
 
-    /* Light theme base */
-    --background-primary: #f9fafb;
-    --background-secondary: #f3f4f6;
-    --background-modifier-border: #e5e7eb;
+    /* Dark background */
+    --background-primary: #1a1a2e;
+    --background-secondary: #16213e;
+    --background-secondary-alt: #0f3460;
+    --background-modifier-border: #1a3a5c;
 
-    /* Text */
-    --text-normal: #1f2937;
-    --text-muted: #6b7280;
-    --text-faint: #9ca3af;
+    /* Text – bright for beamer readability */
+    --text-normal: #e8e8e8;
+    --text-muted: #a0a0b0;
+    --text-faint: #6b6b80;
 
     /* Accent: JSG Blue */
     --interactive-accent: #2563eb;
-    --interactive-accent-hover: #1d4ed8;
+    --interactive-accent-hover: #3b82f6;
     --text-accent: #2563eb;
-    --text-accent-hover: #1d4ed8;
+    --text-accent-hover: #3b82f6;
 
-    /* Links */
-    --link-color: #2563eb;
-    --link-color-hover: #1d4ed8;
-    --link-external-color: #2563eb;
+    /* Links in blue */
+    --link-color: #3b82f6;
+    --link-color-hover: #60a5fa;
+    --link-external-color: #3b82f6;
 
-    /* Headings */
-    --h1-color: #1f2937;
-    --h2-color: #1f2937;
-    --h3-color: #374151;
-    --h4-color: #374151;
-    --h5-color: #4b5563;
-    --h6-color: #4b5563;
+    /* Headings in JSG Red */
+    --h1-color: #ef4444;
+    --h2-color: #ef4444;
+    --h3-color: #f87171;
+    --h4-color: #f87171;
+    --h5-color: #fca5a5;
+    --h6-color: #fca5a5;
+    --inline-title-color: #ef4444;
 
-    /* Tags & highlights */
-    --tag-color: #2563eb;
-    --tag-background: rgba(37, 99, 235, 0.1);
+    /* Tags in blue */
+    --tag-color: #3b82f6;
+    --tag-background: rgba(37, 99, 235, 0.2);
 
-    /* Callouts / red accent for emphasis */
-    --callout-default: #2563eb;
-    --code-normal: #dc2626;
+    /* Code in blue instead of red */
+    --code-normal: #60a5fa;
 
-    /* Navbar / Filetree */
-    --background-secondary-alt: #ffffff;
-    --nav-item-color-hover: #2563eb;
+    /* Bold/strong text */
+    --bold-color: #ffffff;
 
-    /* Sidebar title */
+    /* Blockquote border in blue */
+    --blockquote-border-color: #2563eb;
+
+    /* Horizontal rule */
+    --hr-color: #1a3a5c;
+
+    /* Search highlight – blue instead of yellow */
+    --dg-search-highlight-bg: rgba(37, 99, 235, 0.3);
+    --dg-search-highlight-color: #ffffff;
+    --text-highlight-bg: rgba(37, 99, 235, 0.3);
+
+    /* Mark/highlight – blue instead of yellow */
+    --text-selection: rgba(37, 99, 235, 0.3);
+
+    /* Navbar */
+    --nav-item-color-hover: #3b82f6;
+    --titlebar-text-color: #ffffff;
+
+    /* Filetree */
     --dg-filetree-title-size: 24px;
 
     /* Clean font stack */
@@ -50,23 +68,31 @@ body {
     --font-interface-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 
     .internal-link {
-        color: #2563eb;
+        color: #3b82f6;
         &:hover {
-            color: #1d4ed8;
+            color: #60a5fa;
         }
     }
 
+    /* Mark tags – blue highlight, no yellow */
+    mark {
+        background-color: rgba(37, 99, 235, 0.3) \!important;
+        color: #ffffff \!important;
+    }
+
+    /* Callouts */
     .callout[data-callout="tip"],
     .callout[data-callout="info"] {
         --callout-color: 37, 99, 235;
     }
 
-    .callout[data-callout="warning"] {
-        --callout-color: 220, 38, 38;
+    .callout[data-callout="warning"],
+    .callout[data-callout="important"] {
+        --callout-color: 239, 68, 68;
     }
 
     .nav-view-outer .title {
-        color: #1f2937;
+        color: #ffffff;
         font-weight: 700;
     }
 }
