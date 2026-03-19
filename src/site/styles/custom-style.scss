@@ -1,13 +1,72 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    /* JSG Hohe Warte Color Scheme */
+
+    /* Light theme base */
+    --background-primary: #f9fafb;
+    --background-secondary: #f3f4f6;
+    --background-modifier-border: #e5e7eb;
+
+    /* Text */
+    --text-normal: #1f2937;
+    --text-muted: #6b7280;
+    --text-faint: #9ca3af;
+
+    /* Accent: JSG Blue */
+    --interactive-accent: #2563eb;
+    --interactive-accent-hover: #1d4ed8;
+    --text-accent: #2563eb;
+    --text-accent-hover: #1d4ed8;
+
+    /* Links */
+    --link-color: #2563eb;
+    --link-color-hover: #1d4ed8;
+    --link-external-color: #2563eb;
+
+    /* Headings */
+    --h1-color: #1f2937;
+    --h2-color: #1f2937;
+    --h3-color: #374151;
+    --h4-color: #374151;
+    --h5-color: #4b5563;
+    --h6-color: #4b5563;
+
+    /* Tags & highlights */
+    --tag-color: #2563eb;
+    --tag-background: rgba(37, 99, 235, 0.1);
+
+    /* Callouts / red accent for emphasis */
+    --callout-default: #2563eb;
+    --code-normal: #dc2626;
+
+    /* Navbar / Filetree */
+    --background-secondary-alt: #ffffff;
+    --nav-item-color-hover: #2563eb;
+
+    /* Sidebar title */
+    --dg-filetree-title-size: 24px;
+
+    /* Clean font stack */
+    --font-text-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-interface-theme: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+    .internal-link {
+        color: #2563eb;
+        &:hover {
+            color: #1d4ed8;
+        }
+    }
+
+    .callout[data-callout="tip"],
+    .callout[data-callout="info"] {
+        --callout-color: 37, 99, 235;
+    }
+
+    .callout[data-callout="warning"] {
+        --callout-color: 220, 38, 38;
+    }
+
+    .nav-view-outer .title {
+        color: #1f2937;
+        font-weight: 700;
+    }
 }
