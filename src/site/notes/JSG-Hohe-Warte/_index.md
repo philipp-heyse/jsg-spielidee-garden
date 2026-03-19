@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsg-hohe-warte/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/jsg-hohe-warte/index/"}
 ---
 
 # JSG Hohe Warte – Spielidee
