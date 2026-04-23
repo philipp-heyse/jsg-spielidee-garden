@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/index/"}
+{"dg-publish": true, "permalink": "/katalog/_index/"}
 ---
 
 # Katalog
