@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/geschlossene-gegner-unter-druck-setzen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/geschlossene-gegner-unter-druck-setzen/"}
 ---
 
 # Geschlossene Gegner unter Druck setzen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir gewinnen _-mal den Ball von einem zentralen Mittelfeldspieler, indem wir ihn vordecken.
+
+
+## Basistechnik
+
+- Vordecken
+- Körpereinsatz
 
 ## Verwendet in
 
