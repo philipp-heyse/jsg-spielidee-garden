@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/momente-zur-balleroberung/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/momente-zur-balleroberung/"}
 ---
 
 # Ich erkenne geeignete Momente zur Balleroberung
