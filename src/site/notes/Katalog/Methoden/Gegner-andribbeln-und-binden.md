@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/gegner-andribbeln-und-binden/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/gegner-andribbeln-und-binden/"}
 ---
 
 # Gegner andribbeln & binden
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir kommen _-mal zum Torabschluss, nachdem wir vorher ein 2v1 richtig ausgespielt haben.
+
+
+## Basistechnik
+
+- Dribbling
+- Passspiel im richtigen Moment
 
 ## Verwendet in
 
