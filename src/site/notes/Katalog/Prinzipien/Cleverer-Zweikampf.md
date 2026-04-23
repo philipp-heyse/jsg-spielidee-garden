@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/cleverer-zweikampf/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/cleverer-zweikampf/"}
 ---
 
 # Ich gehe clever in meinen Zweikampf
