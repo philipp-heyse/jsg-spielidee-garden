@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/ueberzahl-in-ballnaehe-schaffen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/uberzahl-in-ballnahe-schaffen/"}
 ---
 
 # Überzahl in Ballnähe schaffen
@@ -9,6 +9,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Freilaufbewegung
+- Raumwahrnehmung
 
 ## Verwendet in
 
