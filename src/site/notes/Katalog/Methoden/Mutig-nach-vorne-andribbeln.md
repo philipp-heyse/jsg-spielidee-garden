@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/mutig-nach-vorne-andribbeln/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/mutig-nach-vorne-andribbeln/"}
 ---
 
 # Mutig nach vorne andribbeln
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Du überdribbelst _-mal eine Reihe der gegnerischen Verteidigung, ohne dass sie in Zweikampf kommen.
+
+
+## Basistechnik
+
+- Tempodribbling
+- Ballkontrolle
 
 ## Verwendet in
 
