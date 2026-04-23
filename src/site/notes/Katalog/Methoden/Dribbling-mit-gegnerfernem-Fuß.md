@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/dribbling-mit-gegnerfernem-fuss/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/dribbling-mit-gegnerfernem-fuss/"}
 ---
 
 # Dribbling mit gegnerfernem Fuß
@@ -11,6 +11,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Beidfüßigkeit
+- Ballkontrolle
 
 ## Verwendet in
 
