@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/zwischen-ketten-schwimmen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/zwischen-ketten-schwimmen/"}
 ---
 
 # Zwischen Ketten schwimmen
@@ -13,6 +13,13 @@
 ## Key-Event
 
 > _-mal aufdrehen in roter Zone.
+
+
+## Basistechnik
+
+- Schulterblick
+- Freilaufbewegung
+- Ballannahme in Bewegung
 
 ## Verwendet in
 
