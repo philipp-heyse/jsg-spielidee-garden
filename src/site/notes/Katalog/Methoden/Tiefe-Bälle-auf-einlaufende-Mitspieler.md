@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/tiefe-baelle-auf-einlaufende-mitspieler/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/tiefe-balle-auf-einlaufende-mitspieler/"}
 ---
 
 # Tiefe Bälle auf einlaufende Mitspieler
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir spielen _ Pässe hinter die Abwehrkette des Gegners.
+
+
+## Basistechnik
+
+- Steilpass
+- Timing
 
 ## Verwendet in
 
