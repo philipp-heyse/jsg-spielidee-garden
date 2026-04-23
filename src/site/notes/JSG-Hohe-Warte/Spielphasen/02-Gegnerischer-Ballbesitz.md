@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsg-hohe-warte/spielphasen/02-gegnerischer-ballbesitz/"}
+{"dg-publish": true, "permalink": "/jsg-hohe-warte/spielphasen/02-gegnerischer-ballbesitz/"}
 ---
 
 # Gegnerischer Ballbesitz – JSG Hohe Warte
