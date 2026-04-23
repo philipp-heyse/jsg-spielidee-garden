@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/arm-raus/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/arm-raus/"}
 ---
 
 # Arm raus
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Du schaffst es _-mal, ein 1v1 mit Armeinsatz für dich zu entscheiden.
+
+
+## Basistechnik
+
+- Körpereinsatz
+- Armeinsatz im Zweikampf
 
 ## Verwendet in
 
