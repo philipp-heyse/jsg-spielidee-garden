@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/stellung-offen-geschlossen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/stellung-offen-geschlossen/"}
 ---
 
 # Stellung: So offen wie möglich, so geschlossen wie nötig
@@ -11,6 +11,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Offene Körperstellung
+- Schulterblick
 
 ## Verwendet in
 
