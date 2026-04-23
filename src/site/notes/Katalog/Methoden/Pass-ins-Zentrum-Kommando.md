@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/pass-ins-zentrum-kommando/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/pass-ins-zentrum-kommando/"}
 ---
 
 # Pass ins Zentrum: Kommando an Passempfänger
@@ -7,6 +7,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Passspiel
+- Kommunikation
 
 ## Verwendet in
 
