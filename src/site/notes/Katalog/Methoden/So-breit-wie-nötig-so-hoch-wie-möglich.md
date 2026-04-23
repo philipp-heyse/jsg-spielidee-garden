@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/so-breit-wie-noetig-so-hoch-wie-moeglich/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/so-breit-wie-notig-so-hoch-wie-moglich/"}
 ---
 
 # So breit wie nötig, so hoch wie möglich
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Setze _-mal einen ersten Kontakt in den Rücken eines direkten Gegenspielers.
+
+
+## Basistechnik
+
+- Raumwahrnehmung
+- Ballannahme in Bewegung
 
 ## Verwendet in
 
