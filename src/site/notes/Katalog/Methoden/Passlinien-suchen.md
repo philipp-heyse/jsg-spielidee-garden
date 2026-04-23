@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/passlinien-suchen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/passlinien-suchen/"}
 ---
 
 # Passlinien suchen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir schaffen es _-mal durch ununterbrochene Passfolgen zum Abschluss zu kommen.
+
+
+## Basistechnik
+
+- Flachpass
+- Raumwahrnehmung
 
 ## Verwendet in
 
