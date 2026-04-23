@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/gegner-lenken-und-zentrum-schuetzen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/gegner-lenken-und-zentrum-schutzen/"}
 ---
 
 # Gegner lenken & Zentrum schützen
@@ -15,6 +15,12 @@
 > Wir zwingen das gegnerische MF _-mal zu Pässen auf ihre Flügelspieler.
 
 > Wir zwingen den Gegner im Spielaufbau _-mal zu Longline-Pässen auf ihre offensiven Flügelspieler.
+
+
+## Basistechnik
+
+- Seitliche Stellung
+- Seitliches Verschieben
 
 ## Verwendet in
 
