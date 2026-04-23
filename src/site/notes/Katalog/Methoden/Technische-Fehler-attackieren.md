@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/technische-fehler-attackieren/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/technische-fehler-attackieren/"}
 ---
 
 # Technische Fehler attackieren
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Wir gewinnen _-mal den Ball nach einem technischen Fehler des Gegners.
+
+
+## Basistechnik
+
+- Antizipation
+- Sprint
 
 ## Verwendet in
 
