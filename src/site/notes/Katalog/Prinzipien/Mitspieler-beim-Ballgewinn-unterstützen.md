@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/mitspieler-beim-ballgewinn-unterstuetzen/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/mitspieler-beim-ballgewinn-unterstutzen/"}
 ---
 
 # Ich unterstütze meinen Mitspieler beim Ballgewinn
