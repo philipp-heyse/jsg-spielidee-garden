@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/winkelspiel-gegen-verschiebebewegung/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/winkelspiel-gegen-verschiebebewegung/"}
 ---
 
 # Winkelspiel gegen Verschiebebewegung des Gegners
@@ -9,6 +9,12 @@
 ## Key-Event
 
 > Du wirst _-mal durch „aktives" Stehenbleiben im Rücken des Gegners frei.
+
+
+## Basistechnik
+
+- Raumwahrnehmung
+- Positionsspiel
 
 ## Verwendet in
 
