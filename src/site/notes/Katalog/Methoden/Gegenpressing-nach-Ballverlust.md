@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/gegenpressing-nach-ballverlust/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/gegenpressing-nach-ballverlust/"}
 ---
 
 # Gegenpressing nach Ballverlust
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir gewinnen den Ball _-mal innerhalb von 5 Sek. nach Ballverlust wieder.
+
+
+## Basistechnik
+
+- Sprint
+- Umschaltbereitschaft
 
 ## Verwendet in
 
