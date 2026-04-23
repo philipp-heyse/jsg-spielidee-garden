@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/im-tempo-bleiben/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/im-tempo-bleiben/"}
 ---
 
 # Im Tempo bleiben oder besser postierten Mitspieler anspielen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Tempodribbling
+- Passspiel
 
 ## Verwendet in
 
