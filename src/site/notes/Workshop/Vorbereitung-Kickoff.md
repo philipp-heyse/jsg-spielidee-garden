@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workshop/vorbereitung-kickoff/","tags":["gardenEntry"]}
+{"dg-publish": true, "permalink": "/workshop/vorbereitung-kickoff/"}
 ---
 
 # Vorbereitung & Kickoff
