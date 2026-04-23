@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/spielen-und-gehen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/spielen-und-gehen/"}
 ---
 
 # Spielen & gehen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir kommen _-mal durch einen Doppelpass zweier Spieler hinter die letzte gegnerische Abwehrreihe.
+
+
+## Basistechnik
+
+- Passspiel
+- Freilaufbewegung
 
 ## Verwendet in
 
