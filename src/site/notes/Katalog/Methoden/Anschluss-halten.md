@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/anschluss-halten/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/anschluss-halten/"}
 ---
 
 # Anschluss halten
@@ -16,6 +16,12 @@
 > Bei Torabschluss sind _-mal mindestens 7 Spieler in der gegnerischen Hälfte.
 
 > Wir haben _ Ballgewinne durch ein nachträgliches Dazukommen im Zweikampf deiner Spieler.
+
+
+## Basistechnik
+
+- Laufbereitschaft
+- Raumwahrnehmung
 
 ## Verwendet in
 
