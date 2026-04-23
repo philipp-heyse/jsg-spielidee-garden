@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsg-hohe-warte/spielphasen/04-ich-habe-den-ball/"}
+{"dg-publish": true, "permalink": "/jsg-hohe-warte/spielphasen/04-ich-habe-den-ball/"}
 ---
 
 # Ich habe den Ball – JSG Hohe Warte
