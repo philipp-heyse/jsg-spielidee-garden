@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/in-tornaehe-gefaehrliche-raeume-besetzen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/in-tornahe-gefahrliche-raume-besetzen/"}
 ---
 
 # In Tornähe gefährliche Räume besetzen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir sind _-mal mit mindestens _ Leuten im Strafraum bei einem Abschluss.
+
+
+## Basistechnik
+
+- Laufwege im Strafraum
+- Timing
 
 ## Verwendet in
 
