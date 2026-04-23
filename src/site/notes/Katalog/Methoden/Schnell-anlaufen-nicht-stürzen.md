@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/schnell-anlaufen-nicht-stuerzen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/schnell-anlaufen-nicht-sturzen/"}
 ---
 
 # Schnell anlaufen – nicht stürzen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Unsere letzten Verteidiger werden kein einziges Mal durch einen langen Kontakt an ihnen vorbei im 1v1 geschlagen.
+
+
+## Basistechnik
+
+- Bereitschaftsposition
+- Abbremsen
 
 ## Verwendet in
 
