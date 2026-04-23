@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/spielphasen/01-eigener-ballbesitz/"}
+{"dg-publish": true, "permalink": "/katalog/spielphasen/01-eigener-ballbesitz/"}
 ---
 
 # Meine Mannschaft hat den Ball
