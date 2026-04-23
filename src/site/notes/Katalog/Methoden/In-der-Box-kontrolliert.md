@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/in-der-box-kontrolliert/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/in-der-box-kontrolliert/"}
 ---
 
 # In der Box: So schnell wie nötig, so kontrolliert wie möglich
@@ -7,6 +7,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Ballkontrolle
+- Torabschluss
 
 ## Verwendet in
 
