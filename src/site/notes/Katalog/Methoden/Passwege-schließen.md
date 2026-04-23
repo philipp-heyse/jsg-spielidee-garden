@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/passwege-schliessen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/passwege-schliessen/"}
 ---
 
 # Passwege schließen
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Der Gegner wird _-mal aus unserer Ordnung heraus zu einem Pass nach außen gezwungen.
+
+
+## Basistechnik
+
+- Defensivstellung
+- Raumwahrnehmung
 
 ## Verwendet in
 
