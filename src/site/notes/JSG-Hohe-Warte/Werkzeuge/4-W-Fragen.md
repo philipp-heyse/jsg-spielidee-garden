@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsg-hohe-warte/werkzeuge/4-w-fragen/"}
+{"dg-publish": true, "permalink": "/jsg-hohe-warte/werkzeuge/4-w-fragen/"}
 ---
 
 # Die 4-W-Fragen – JSG Hohe Warte
