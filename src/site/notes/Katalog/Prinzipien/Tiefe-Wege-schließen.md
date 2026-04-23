@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/tiefe-wege-schliessen/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/tiefe-wege-schliessen/"}
 ---
 
 # Ich schließe tiefe Pass- und Laufwege des Gegners
