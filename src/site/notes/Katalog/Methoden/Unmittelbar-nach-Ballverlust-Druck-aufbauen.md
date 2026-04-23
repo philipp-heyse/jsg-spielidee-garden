@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/unmittelbar-nach-ballverlust-druck-aufbauen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/unmittelbar-nach-ballverlust-druck-aufbauen/"}
 ---
 
 # Unmittelbar nach Ballverlust Druck aufbauen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Der Gegner wird _-mal zu einem Fehlpass nach seinem Ballgewinn gezwungen.
+
+
+## Basistechnik
+
+- Sprint
+- Umschaltbereitschaft
 
 ## Verwendet in
 
