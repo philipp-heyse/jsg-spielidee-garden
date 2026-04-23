@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/anspielmoeglichkeiten-schaffen/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/anspielmoglichkeiten-schaffen/"}
 ---
 
 # Ich schaffe Anspielmöglichkeiten
