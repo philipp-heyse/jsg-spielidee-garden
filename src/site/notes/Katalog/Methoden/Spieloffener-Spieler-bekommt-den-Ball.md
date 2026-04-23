@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/spieloffener-spieler-bekommt-den-ball/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/spieloffener-spieler-bekommt-den-ball/"}
 ---
 
 # Spieloffener Spieler bekommt den Ball
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Wir lösen _-mal eine Drucksituation durch einen Pass auf den spieloffenen Spieler.
+
+
+## Basistechnik
+
+- Passspiel
+- Schulterblick
 
 ## Verwendet in
 
