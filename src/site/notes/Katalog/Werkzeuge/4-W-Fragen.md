@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/werkzeuge/4-w-fragen/"}
+{"dg-publish": true, "permalink": "/katalog/werkzeuge/4-w-fragen/"}
 ---
 
 # Die 4-W-Fragen
