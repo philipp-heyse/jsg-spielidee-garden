@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/schussfenster-freiziehen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/schussfenster-freiziehen/"}
 ---
 
 # Schussfenster freiziehen
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Du schaffst es _-mal zum Schuss zu kommen, durch den richtigen Kontakt zur Seite, um ein Schussfenster freizuziehen.
+
+
+## Basistechnik
+
+- Ballmitnahme zur Seite
+- Schusstechnik
 
 ## Verwendet in
 
