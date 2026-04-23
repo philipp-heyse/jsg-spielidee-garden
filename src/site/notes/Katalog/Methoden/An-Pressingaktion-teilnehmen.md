@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/an-pressingaktion-teilnehmen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/an-pressingaktion-teilnehmen/"}
 ---
 
 # An Pressingaktion teilnehmen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir haben _ Ballgewinne, in denen auch der ballentfernteste Spieler aktiv ist und nicht steht.
+
+
+## Basistechnik
+
+- Laufbereitschaft
+- Anlaufverhalten
 
 ## Verwendet in
 
