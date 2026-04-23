@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/moeglichst-das-zentrum-anspielen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/moglichst-das-zentrum-anspielen/"}
 ---
 
 # Möglichst das Zentrum anspielen
@@ -9,6 +9,11 @@
 ## Key-Event
 
 > Deinen Mitspieler spielst du _-mal im Zentrum durch einen Pass an.
+
+
+## Basistechnik
+
+- Flachpass (scharf, präzise)
 
 ## Verwendet in
 
