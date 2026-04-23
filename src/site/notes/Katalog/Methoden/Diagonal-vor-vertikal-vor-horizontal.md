@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/diagonal-vor-vertikal-vor-horizontal/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/diagonal-vor-vertikal-vor-horizontal/"}
 ---
 
 # Diagonal vor vertikal vor horizontal
@@ -9,6 +9,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Diagonalpass
+- Raumwahrnehmung
 
 ## Verwendet in
 
