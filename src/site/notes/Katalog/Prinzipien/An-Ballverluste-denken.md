@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/an-ballverluste-denken/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/an-ballverluste-denken/"}
 ---
 
 # Ich denke bereits an Ballverluste
