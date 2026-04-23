@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/werkzeuge/coaching-im-spiel/"}
+{"dg-publish": true, "permalink": "/katalog/werkzeuge/coaching-im-spiel/"}
 ---
 
 # Coaching im Spiel
