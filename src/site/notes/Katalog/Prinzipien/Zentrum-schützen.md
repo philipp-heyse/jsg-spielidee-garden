@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/zentrum-schuetzen/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/zentrum-schutzen/"}
 ---
 
 # Ich schütze das Zentrum
