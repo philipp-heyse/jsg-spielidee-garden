@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsg-hohe-warte/index/"}
+{"dg-publish": true, "permalink": "/jsg-hohe-warte/_index/"}
 ---
 
 # JSG Hohe Warte – Spielidee
