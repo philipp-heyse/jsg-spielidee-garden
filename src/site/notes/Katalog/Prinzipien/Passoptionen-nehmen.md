@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/passoptionen-nehmen/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/passoptionen-nehmen/"}
 ---
 
 # Ich nehme dem Gegner tiefe Passoptionen
