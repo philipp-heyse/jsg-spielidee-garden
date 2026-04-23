@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/innen-stehen-gegner-sehen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/innen-stehen-gegner-sehen/"}
 ---
 
 # Innen stehen – Gegner sehen
@@ -15,6 +15,12 @@
 > Dem Gegner gelingen keine Pässe hinter unsere letzte Abwehrreihe.
 
 > Du schaffst es, den Gegner _-mal bei der Ballannahme und im 1v1 nach außen oder zu einem Mitspieler zu drängen.
+
+
+## Basistechnik
+
+- Schulterblick
+- Offene Körperstellung
 
 ## Verwendet in
 
