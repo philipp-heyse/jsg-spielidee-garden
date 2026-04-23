@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/gegner-in-bewegung-bringen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/gegner-in-bewegung-bringen/"}
 ---
 
 # Gegner in Bewegung bringen
@@ -11,6 +11,12 @@
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Ballkontrolle
+- Körpertäuschung
 
 ## Verwendet in
 
