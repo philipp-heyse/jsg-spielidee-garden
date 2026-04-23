@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/unkontrollierte-situationen-attackieren/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/unkontrollierte-situationen-attackieren/"}
 ---
 
 # Unkontrollierte Situationen attackieren
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Wir gewinnen _-mal den Ball in „50/50" oder chaotischen Situationen.
+
+
+## Basistechnik
+
+- Zweikampfbereitschaft
+- Antizipation
 
 ## Verwendet in
 
