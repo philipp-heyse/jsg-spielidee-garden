@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/hinter-dem-ball-frei-werden/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/hinter-dem-ball-frei-werden/"}
 ---
 
 # Hinter dem Ball frei werden
@@ -13,6 +13,13 @@
 ## Key-Event
 
 > _-mal eine Steil-Klatsch-Aktion gespielt.
+
+
+## Basistechnik
+
+- Freilaufbewegung
+- Körpertäuschung
+- Ballannahme
 
 ## Verwendet in
 
