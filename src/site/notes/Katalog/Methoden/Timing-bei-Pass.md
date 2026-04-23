@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/timing-bei-pass/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/timing-bei-pass/"}
 ---
 
 # Timing bei Pass
@@ -13,6 +13,11 @@ So spielen, dass der Passempfänger maximalen Vorteil hat.
 ## Key-Event
 
 > Wir kommen _-mal zum Torabschluss, nachdem wir im 2v1 den ersten Kontakt in den Rücken des Gegners gesetzt haben.
+
+
+## Basistechnik
+
+- Passspiel (Timing, Schärfe)
 
 ## Verwendet in
 
