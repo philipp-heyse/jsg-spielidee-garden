@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workshop/gruppenarbeit-vorlage/"}
+{"dg-publish": true, "permalink": "/workshop/gruppenarbeit-vorlage/"}
 ---
 
 # Gruppenarbeit – Ergebnisbogen
