@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/abschlussmoeglichkeiten/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/abschlussmoglichkeiten/"}
 ---
 
 # Ich erkenne und nutze lohnende Abschlussmöglichkeiten
