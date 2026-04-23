@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/spielphasen/index/"}
+{"dg-publish": true, "permalink": "/katalog/spielphasen/_index/"}
 ---
 
 # Spielphasen
