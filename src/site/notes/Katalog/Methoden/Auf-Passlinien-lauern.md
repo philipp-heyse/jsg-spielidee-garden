@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/auf-passlinien-lauern/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/auf-passlinien-lauern/"}
 ---
 
 # Auf Passlinien lauern
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir haben _ Ballgewinne durch einen abgefangenen Pass aus einem Zweikampf.
+
+
+## Basistechnik
+
+- Antizipation
+- Abfangen
 
 ## Verwendet in
 
