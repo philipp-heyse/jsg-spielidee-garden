@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/gefahr-richtung-tor/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/gefahr-richtung-tor/"}
 ---
 
 # Ich sorge für Gefahr in Richtung gegnerisches Tor
