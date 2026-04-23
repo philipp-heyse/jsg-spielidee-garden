@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/tote-winkel-attackieren/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/tote-winkel-attackieren/"}
 ---
 
 # Tote Winkel attackieren
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Wir haben _ Ballgewinne, indem wir dem Gegner nach seinem ersten Kontakt ohne Zweikampf den Ball abnehmen.
+
+
+## Basistechnik
+
+- Sprint
+- Antizipation
 
 ## Verwendet in
 
