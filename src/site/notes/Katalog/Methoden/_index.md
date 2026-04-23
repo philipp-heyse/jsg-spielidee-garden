@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/index/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/_index/"}
 ---
 
 # Methoden
