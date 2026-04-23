@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/tempo-und-richtungswechsel/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/tempo-und-richtungswechsel/"}
 ---
 
 # Tempo- und Richtungswechsel
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Du schaffst es _-mal, am Gegner ohne eine Finte vorbeizukommen.
+
+
+## Basistechnik
+
+- Ballkontrolle
+- Tempodribbling
 
 ## Verwendet in
 
