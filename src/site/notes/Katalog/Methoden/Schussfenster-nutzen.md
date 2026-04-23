@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/schussfenster-nutzen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/schussfenster-nutzen/"}
 ---
 
 # Schussfenster nutzen
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Wir haben _ Abschlüsse mit nur einem Kontakt und gleichzeitig der Innenseite.
+
+
+## Basistechnik
+
+- Schusstechnik
+- Timing
 
 ## Verwendet in
 
