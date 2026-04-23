@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/vororientieren-schulterblick/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/vororientieren-schulterblick/"}
 ---
 
 # Vororientieren / Schulterblick
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Du schaffst es _-mal mit deinem ersten Kontakt, deinen direkten Gegenspieler aus dem Spiel zu nehmen.
+
+
+## Basistechnik
+
+- Schulterblick
+- Offene Ballannahme
 
 ## Verwendet in
 
