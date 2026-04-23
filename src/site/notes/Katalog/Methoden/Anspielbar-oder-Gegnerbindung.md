@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/anspielbar-oder-gegnerbindung/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/anspielbar-oder-gegnerbindung/"}
 ---
 
 # Anspielbar oder Gegnerbindung
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Bei Ballverlust im Spielaufbau durch unsere Abwehrreihe entsteht keine gefährliche Umschaltsituation für den Gegner.
+
+
+## Basistechnik
+
+- Freilaufbewegung
+- Raumwahrnehmung
 
 ## Verwendet in
 
