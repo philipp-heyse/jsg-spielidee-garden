@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workshop/tandems-und-follow-up/"}
+{"dg-publish": true, "permalink": "/workshop/tandems-und-follow-up/"}
 ---
 
 # Tandems & Follow-up
