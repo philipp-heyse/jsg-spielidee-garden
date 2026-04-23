@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/ballnahe-gegenspieler-zustellen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/ballnahe-gegenspieler-zustellen/"}
 ---
 
 # Ballnahe Gegenspieler zustellen
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Der Gegner muss seinen Spielaufbau _-mal abbrechen und wieder neu aufbauen.
+
+
+## Basistechnik
+
+- Anlaufverhalten
+- Defensivstellung
 
 ## Verwendet in
 
