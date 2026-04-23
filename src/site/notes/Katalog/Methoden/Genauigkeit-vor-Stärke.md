@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/genauigkeit-vor-staerke/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/genauigkeit-vor-starke/"}
 ---
 
 # Genauigkeit vor Stärke
@@ -11,6 +11,11 @@
 ## Key-Event
 
 > Du hast _ erfolgreiche Torabschlüsse mit der Innenseite deines Fußes.
+
+
+## Basistechnik
+
+- Schusstechnik Innenseite
 
 ## Verwendet in
 
