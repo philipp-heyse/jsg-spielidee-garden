@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/vordecken/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/vordecken/"}
 ---
 
 # Vordecken / nach vorne verteidigen
@@ -14,6 +14,13 @@
 ## Key-Event
 
 > Wir gewinnen _-mal den Ball durch aktives Vordecken.
+
+
+## Basistechnik
+
+- Antizipation
+- Defensivstellung
+- Balleroberung
 
 ## Verwendet in
 
