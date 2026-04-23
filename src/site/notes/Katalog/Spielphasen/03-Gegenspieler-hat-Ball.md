@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/spielphasen/03-gegenspieler-hat-ball/"}
+{"dg-publish": true, "permalink": "/katalog/spielphasen/03-gegenspieler-hat-ball/"}
 ---
 
 # Mein Gegenspieler hat den Ball
