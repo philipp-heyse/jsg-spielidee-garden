@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/ballannahme-offensiv/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/ballannahme-offensiv/"}
 ---
 
 # Ballannahme so offensiv wie möglich
@@ -13,6 +13,12 @@ Ball sichern vs. dynamische Mitnahme – je nach Situation.
 ## Key-Event
 
 –
+
+
+## Basistechnik
+
+- Ballmitnahme
+- Offene Körperstellung
 
 ## Verwendet in
 
