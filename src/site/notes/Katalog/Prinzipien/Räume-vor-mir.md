@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/raeume-vor-mir/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/raume-vor-mir/"}
 ---
 
 # Ich nutze Räume vor mir
