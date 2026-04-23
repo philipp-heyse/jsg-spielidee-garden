@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workshop/gruppenarbeit-leitfaden/"}
+{"dg-publish": true, "permalink": "/workshop/gruppenarbeit-leitfaden/"}
 ---
 
 # Gruppenarbeit – Leitfaden
@@ -56,7 +56,7 @@ Füllt die [[Workshop/Gruppenarbeit-Vorlage\|Vorlage]] aus – pro Methode:
 
 | Team | Spielphase | Katalog-Link |
 |------|-----------|--------------|
-| Team 1 | Eigener Ballbesitz | [[Katalog/Spielphasen/01-Eigener-Ballbesitz\|Katalog/Spielphasen/01-Eigener-Ballbesitz]] |
-| Team 2 | Gegnerischer Ballbesitz | [[Katalog/Spielphasen/02-Gegnerischer-Ballbesitz\|Katalog/Spielphasen/02-Gegnerischer-Ballbesitz]] |
-| Team 3 | Gegenspieler hat Ball | [[Katalog/Spielphasen/03-Gegenspieler-hat-Ball\|Katalog/Spielphasen/03-Gegenspieler-hat-Ball]] |
-| Team 4 | Ich habe den Ball | [[Katalog/Spielphasen/04-Ich-habe-den-Ball\|Katalog/Spielphasen/04-Ich-habe-den-Ball]] |
+| Team 1 | Eigener Ballbesitz | [[Katalog/Spielphasen/01-Eigener-Ballbesitz]] |
+| Team 2 | Gegnerischer Ballbesitz | [[Katalog/Spielphasen/02-Gegnerischer-Ballbesitz]] |
+| Team 3 | Gegenspieler hat Ball | [[Katalog/Spielphasen/03-Gegenspieler-hat-Ball]] |
+| Team 4 | Ich habe den Ball | [[Katalog/Spielphasen/04-Ich-habe-den-Ball]] |
