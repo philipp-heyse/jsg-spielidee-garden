@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/pressingausloeser-erkennen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/pressingausloser-erkennen/"}
 ---
 
 # Pressingauslöser erkennen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir haben _ Ballgewinne durch das Erkennen von Pressingauslösern.
+
+
+## Basistechnik
+
+- Raumwahrnehmung
+- Kommunikation
 
 ## Verwendet in
 
