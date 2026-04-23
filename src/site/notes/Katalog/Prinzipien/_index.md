@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/index/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/_index/"}
 ---
 
 # Prinzipien
