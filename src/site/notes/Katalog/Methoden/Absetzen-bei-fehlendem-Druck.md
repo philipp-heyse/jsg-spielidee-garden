@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/absetzen-bei-fehlendem-druck/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/absetzen-bei-fehlendem-druck/"}
 ---
 
 # Absetzen bei fehlendem Druck auf den Ball
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir kommen _-mal in Ballbesitz durch ein rechtzeitiges Absetzen unserer Innenverteidiger.
+
+
+## Basistechnik
+
+- Rückwärtslaufen
+- Raumwahrnehmung
 
 ## Verwendet in
 
