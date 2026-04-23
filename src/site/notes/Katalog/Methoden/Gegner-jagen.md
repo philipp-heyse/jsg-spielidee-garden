@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/gegner-jagen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/gegner-jagen/"}
 ---
 
 # Gegner jagen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > _-mal innerhalb von 5 Sekunden dem Gegner wieder den Ball abgenommen.
+
+
+## Basistechnik
+
+- Sprint
+- Anlaufverhalten
 
 ## Verwendet in
 
