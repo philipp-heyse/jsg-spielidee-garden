@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/erster-blick-tief/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/erster-blick-tief/"}
 ---
 
 # Erster Blick tief
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Du spielst _-mal einen Ball hinter die gegnerische Abwehrreihe.
+
+
+## Basistechnik
+
+- Schulterblick
+- Steilpass
 
 ## Verwendet in
 
