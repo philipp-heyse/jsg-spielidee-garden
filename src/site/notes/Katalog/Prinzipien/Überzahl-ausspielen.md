@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/ueberzahl-ausspielen/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/uberzahl-ausspielen/"}
 ---
 
 # Ich spiele eine Überzahl zielstrebig aus
