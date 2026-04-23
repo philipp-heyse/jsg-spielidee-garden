@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/besser-postierte-mitspieler/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/besser-postierte-mitspieler/"}
 ---
 
 # Ich erkenne besser postierte Mitspieler
