@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/helfen-oder-abhauen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/helfen-oder-abhauen/"}
 ---
 
 # Helfen oder abhauen
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Der ballführende Spieler hat _-mal die Qual der Wahl vor dem gegnerischen Strafraum für seinen letzten Pass.
+
+
+## Basistechnik
+
+- Freilaufbewegung
+- Raumwahrnehmung
 
 ## Verwendet in
 
