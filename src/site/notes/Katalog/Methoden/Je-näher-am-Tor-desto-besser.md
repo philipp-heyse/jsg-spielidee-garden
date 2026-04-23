@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/je-naeher-am-tor-desto-besser/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/je-naher-am-tor-desto-besser/"}
 ---
 
 # Je näher am gegnerischen Tor, desto besser mein 1-gegen-1
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir schießen _ Tore im Strafraum, nachdem wir direkt davor ein 1v1 gewonnen haben.
+
+
+## Basistechnik
+
+- Dribbling
+- Torabschluss
 
 ## Verwendet in
 
