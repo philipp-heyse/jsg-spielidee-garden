@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/spielphasen/02-gegnerischer-ballbesitz/"}
+{"dg-publish": true, "permalink": "/katalog/spielphasen/02-gegnerischer-ballbesitz/"}
 ---
 
 # Die gegnerische Mannschaft hat den Ball
