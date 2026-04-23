@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/erster-kontakt/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/erster-kontakt/"}
 ---
 
 # Ich nutze meinen ersten Kontakt sinnvoll
