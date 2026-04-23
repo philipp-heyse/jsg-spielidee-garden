@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/distanz-verringern/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/distanz-verringern/"}
 ---
 
 # Ich verringere die Distanz zum Gegner und setze ihn ständig unter Druck
