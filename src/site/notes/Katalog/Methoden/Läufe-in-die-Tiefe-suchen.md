@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/laeufe-in-die-tiefe-suchen/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/laufe-in-die-tiefe-suchen/"}
 ---
 
 # Läufe in die Tiefe suchen
@@ -13,6 +13,12 @@
 ## Key-Event
 
 > Wir kommen _-mal durch einen Steckpass / Pass in die Tiefe zum Abschluss.
+
+
+## Basistechnik
+
+- Steilpass
+- Timing Tiefenlauf
 
 ## Verwendet in
 
