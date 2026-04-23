@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/key-events/index/"}
+{"dg-publish": true, "permalink": "/katalog/key-events/_index/"}
 ---
 
 # Key-Events
