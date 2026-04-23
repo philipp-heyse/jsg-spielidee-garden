@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/methoden/aufdrehen-verhindern/"}
+{"dg-publish": true, "permalink": "/katalog/methoden/aufdrehen-verhindern/"}
 ---
 
 # Aufdrehen verhindern
@@ -11,6 +11,12 @@
 ## Key-Event
 
 > Der Gegner wird im Spielaufbau _-mal zu einem Rückpass aus dem Zentrum in Richtung des Torwarts gezwungen.
+
+
+## Basistechnik
+
+- Körpereinsatz
+- Enger Kontakt
 
 ## Verwendet in
 
