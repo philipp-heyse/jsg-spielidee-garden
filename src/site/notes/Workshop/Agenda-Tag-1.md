@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workshop/agenda-tag-1/"}
+{"dg-publish": true, "permalink": "/workshop/agenda-tag-1/"}
 ---
 
 # Workshop Tag 1 – Unsere Spielidee
