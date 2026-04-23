@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/1-gegen-1-situationen/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/1-gegen-1-situationen/"}
 ---
 
 # Ich suche und gewinne lohnende 1-gegen-1-Situationen
