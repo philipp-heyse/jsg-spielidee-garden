@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/prinzipien/raeume-im-ruecken/"}
+{"dg-publish": true, "permalink": "/katalog/prinzipien/raume-im-rucken/"}
 ---
 
 # Ich bespiele Räume im Rücken des Gegners
