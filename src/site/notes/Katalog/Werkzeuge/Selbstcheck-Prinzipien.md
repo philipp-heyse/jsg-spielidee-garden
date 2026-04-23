@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/katalog/werkzeuge/selbstcheck-prinzipien/"}
+{"dg-publish": true, "permalink": "/katalog/werkzeuge/selbstcheck-prinzipien/"}
 ---
 
 # Selbstcheck Prinzipien
